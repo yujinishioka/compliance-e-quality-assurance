@@ -1,0 +1,19 @@
+1. O custo da correção de um defeito. B
+
+2. Em qual tipo de teste ferramentas de captura e repetição facilitam e provem mais benefícios?
+
+3. É um dos objetivos do teste? A
+
+4. Você acredita que suas “tasks” de testes só o QA coloca a mão? C
+
+5. Os testes unitários geralmente são realizados pelos? B
+
+6. O ideal é realizar os testes de Integração? A
+
+7. É um tipo de teste funcional? C
+
+8. É um tipo de teste não funcional? D
+
+9. Qual tipo de testes, garante que após alterações no software o comportamento das funcionalidades que funcionavam não são afetadas? A
+
+10. Os testes do tipo caixa preta são utilizados para? D

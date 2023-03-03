@@ -1,6 +1,6 @@
 1. O custo da correção de um defeito. B
 
-2. Em qual tipo de teste ferramentas de captura e repetição facilitam e provem mais benefícios?
+2. Em qual tipo de teste ferramentas de captura e repetição facilitam e provem mais benefícios? A
 
 3. É um dos objetivos do teste? A
 
